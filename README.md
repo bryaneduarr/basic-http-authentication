@@ -14,3 +14,11 @@ npm install express dotenv
 ```
 npx ts-node src/index.ts
 ```
+
+### Para ejecutar realizar los siguientes comandos
+```
+npm install
+```
+```
+npm run dev
+```
